@@ -1,4 +1,14 @@
 body {
-    font-size: 32px;
+    font-size: 24px;
     background-color: aquamarine;
+}
+
+h2 {
+    color: red;
+    font-size: 48px;
+}
+
+h1 {
+    color: blue;
+    font-size: 64px;
 }
